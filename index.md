@@ -3,6 +3,7 @@
 ## Tools
 
 ### Crypto
+
 - [CyberChef](https://gchq.github.io/CyberChef)
 - [dCode](https://www.dcode.fr/en)
 
@@ -19,17 +20,22 @@
 
 ### Crypto
 
-- [ ] [CryptoHack](https://cryptohack.org)
+- [CryptoHack](https://cryptohack.org)
 
 ### Web
 
-- [ ] [PortSwigger Academy](https://portswigger.net/web-security)
+- [PortSwigger Academy](https://portswigger.net/web-security)
 
 ## Books
 
-### Physical Security
+### General
 
-- [ ] Unauthorised Access - Wil Allsopp
+- [Security Engineering - Ross Anderson](https://www.cl.cam.ac.uk/~rja14/book.html)
+- [Hacking - Jon Erickson](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
+
+### Physical
+
+- [Unauthorised Access - Wil Allsopp](https://www.amazon.com/Unauthorised-Access-Physical-Penetration-Security/dp/0470747617)
 
 ## CTFs
 
