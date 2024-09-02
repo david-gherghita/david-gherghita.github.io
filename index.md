@@ -1,10 +1,31 @@
 # Resources
 
+## Tools
+
+### OSINT
+
+- [PimEyes](https://pimeyes.com)
+- [Plonk It](https://www.plonkit.net/)
+
+## Learn
+
+### Binary
+
+- [crackmes.one](https://crackmes.one)
+
+### Crypto
+
+- [ ] [CryptoHack](https://cryptohack.org)
+
+### Web
+
+- [ ] [PortSwigger Academy](https://portswigger.net/web-security)
+
 ## Books
 
 ### Physical Security
 
-- [ ]  Unauthorised Access - Wil Allsopp
+- [ ] Unauthorised Access - Wil Allsopp
 
 ## Let's connect
 
