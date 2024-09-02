@@ -31,6 +31,10 @@
 
 - [ ] Unauthorised Access - Wil Allsopp
 
+## CTFs
+
+- [Reply Cyber Security Challenge](https://challenges.reply.com/challenges/cybersecurity/home)
+
 ## Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/david-gherghita)
