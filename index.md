@@ -2,10 +2,14 @@
 
 ## Tools
 
+### Crypto
+- [CyberChef](https://gchq.github.io/CyberChef)
+- [dCode](https://www.dcode.fr/en)
+
 ### OSINT
 
 - [PimEyes](https://pimeyes.com)
-- [Plonk It](https://www.plonkit.net/)
+- [Plonk It](https://www.plonkit.net)
 
 ## Learn
 
