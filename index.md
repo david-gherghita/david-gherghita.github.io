@@ -1,6 +1,9 @@
-## David Gherghita
+## Books
 
-SRIC student
+### Physical Security
 
-### You can find me on:
-- [Facebook](https://www.facebook.com/david.gherghita/)
+- [ ] Unauthorised Access - Wil Allsopp
+
+## Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/david-gherghita)
