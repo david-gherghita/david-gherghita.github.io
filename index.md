@@ -2,7 +2,7 @@
 
 ### Physical Security
 
-- Unauthorised Access - Wil Allsopp :heavy_check_mark:
+- Unauthorised Access - Wil Allsopp &check;
 
 ## Let's connect
 
