@@ -2,6 +2,10 @@
 
 ## Tools
 
+### Binary
+
+- [HexEd.it](https://hexed.it)
+
 ### Crypto
 
 - [CyberChef](https://gchq.github.io/CyberChef)
