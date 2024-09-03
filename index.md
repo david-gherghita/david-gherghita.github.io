@@ -18,6 +18,10 @@
 
 ## Learn
 
+### General
+
+- [OverTheWire](https://overthewire.org)
+
 ### Binary
 
 - [crackmes.one](https://crackmes.one)
@@ -25,6 +29,11 @@
 ### Crypto
 
 - [CryptoHack](https://cryptohack.org)
+
+### OS
+
+- [Command Challenge](https://cmdchallenge.com)
+- [SadServers](https://sadservers.com)
 
 ### Web
 
