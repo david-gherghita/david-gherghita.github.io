@@ -12,6 +12,10 @@
 - [PimEyes](https://pimeyes.com)
 - [Plonk It](https://www.plonkit.net)
 
+### Hosting
+
+- [alwaysdata](https://www.alwaysdata.com/en)
+
 ## Learn
 
 ### Binary
@@ -41,6 +45,6 @@
 
 - [Reply Cyber Security Challenge](https://challenges.reply.com/challenges/cybersecurity/home)
 
-## Let's connect
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/david-gherghita)
