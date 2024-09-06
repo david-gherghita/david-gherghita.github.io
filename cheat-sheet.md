@@ -1,5 +1,7 @@
 # Cheat Sheet
 
+[← Go back to main page](./index.md)
+
 ## [ffuf](https://github.com/ffuf/ffuf)
 
 ### Simple login page
