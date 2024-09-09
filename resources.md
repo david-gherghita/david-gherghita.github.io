@@ -54,7 +54,15 @@
 
 ### Physical
 
-- [Unauthorised Access - Wil Allsopp](https://www.amazon.com/Unauthorised-Access-Physical-Penetration-Security/dp/0470747617)
+- [Unauthorised Access - Physical Penetration Testing for IT Security Teams - Wil Allsopp](https://www.amazon.com/Unauthorised-Access-Physical-Penetration-Security/dp/0470747617)
+
+  Pros:
+  - Comprehensive introduction to physical security.
+  - Engaging true stories based on the author's pentesting own experience.
+  - Actionable tips and techniques.
+
+  Cons:
+  - Dated content, the book was published in 2009.
 
 ## CTFs
 
