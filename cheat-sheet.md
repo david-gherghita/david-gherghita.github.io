@@ -14,6 +14,12 @@ ffuf \
   -w /usr/share/wordlists/rockyou.txt:FUZZ  \
   -fr "Incorrect"
 ```
+
+## XSS
+
+```html
+<script>alert();</script>
+```
   
 ## Web shell
 
