@@ -18,7 +18,7 @@ ffuf \
 ## XSS
 
 ```html
-<script>alert();</script>
+<script>alert(1)</script>
 ```
   
 ## Web shell
