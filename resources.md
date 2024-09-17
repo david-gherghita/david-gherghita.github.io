@@ -11,6 +11,10 @@
 - [CyberChef](https://gchq.github.io/CyberChef)
 - [dCode](https://www.dcode.fr/en)
 
+### Mobile
+
+- [jadx](https://github.com/skylot/jadx)
+
 ### OSINT
 
 - [PimEyes](https://pimeyes.com)
