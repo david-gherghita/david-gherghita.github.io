@@ -43,6 +43,10 @@
 - [Command Challenge](https://cmdchallenge.com)
 - [SadServers](https://sadservers.com)
 
+### OSINT
+
+- [Sofia Santos | OSINT Analysis & Exercises](https://gralhix.com/)
+
 ### Web
 
 - [DAMN VULNERABLE WEB APPLICATION](https://github.com/digininja/DVWA)
