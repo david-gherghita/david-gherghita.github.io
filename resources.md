@@ -45,7 +45,7 @@
 
 ### OSINT
 
-- [Sofia Santos | OSINT Analysis & Exercises](https://gralhix.com/)
+- [Gralhix](https://gralhix.com)
 
 ### Web
 
