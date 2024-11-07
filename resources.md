@@ -6,6 +6,10 @@
 
 - [HexEd.it](https://hexed.it)
 
+### Brute-force
+
+- [SecLists](https://github.com/danielmiessler/SecLists)
+
 ### Crypto
 
 - [CyberChef](https://gchq.github.io/CyberChef)
