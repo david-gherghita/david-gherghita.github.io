@@ -15,6 +15,10 @@
 - [CyberChef](https://gchq.github.io/CyberChef)
 - [dCode](https://www.dcode.fr/en)
 
+### Hosting
+
+- [alwaysdata](https://www.alwaysdata.com/en)
+
 ### Mobile
 
 - [jadx](https://github.com/skylot/jadx)
@@ -24,9 +28,9 @@
 - [PimEyes](https://pimeyes.com)
 - [Plonk It](https://www.plonkit.net)
 
-### Hosting
+### Web
 
-- [alwaysdata](https://www.alwaysdata.com/en)
+- [HackTools](https://hacktools.sh)
 
 ## Learn
 
