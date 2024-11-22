@@ -23,6 +23,10 @@
 
 - [jadx](https://github.com/skylot/jadx)
 
+### Network
+
+- [Reverse Shell Generator](https://www.revshells.com)
+
 ### OSINT
 
 - [PimEyes](https://pimeyes.com)
