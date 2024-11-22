@@ -31,6 +31,7 @@
 ### Web
 
 - [HackTools](https://hacktools.sh)
+- [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThings)
 
 ## Learn
 
