@@ -1,46 +1,9 @@
 ---
 title: Resources
-nav_order: 1
+nav_order: 2
 ---
 
 # Resources
-
-## Tools
-
-### Binary
-
-- [HexEd.it](https://hexed.it)
-
-### Brute-force
-
-- [SecLists](https://github.com/danielmiessler/SecLists)
-
-### Crypto
-
-- [CyberChef](https://gchq.github.io/CyberChef)
-- [dCode](https://www.dcode.fr/en)
-
-### Hosting
-
-- [alwaysdata](https://www.alwaysdata.com/en)
-
-### Mobile
-
-- [jadx](https://github.com/skylot/jadx)
-
-### Network
-
-- [Reverse Shell Generator](https://www.revshells.com)
-
-### OSINT
-
-- [PimEyes](https://pimeyes.com)
-- [Plonk It](https://www.plonkit.net)
-
-### Web
-
-- [HackTools](https://hacktools.sh)
-- [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThings)
 
 ## Learn
 
