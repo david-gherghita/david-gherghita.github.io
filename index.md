@@ -1,7 +1,7 @@
 ---
-title: Main
+title: Home
 layout: home
+nav_order: 1
 ---
 
-- [Resources](./resources.md)
-- [Cheat Sheet](./cheat-sheet.md)
+# Welcome!
