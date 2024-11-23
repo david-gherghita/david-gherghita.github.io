@@ -1,4 +1,8 @@
-remote_theme: pages-themes/hacker@v0.2.0
-
 title: David Gherghita
 description: Security Engineer
+theme: just-the-docs
+
+url: https://david-gherghita.github.io
+
+aux_links:
+  Template Repository: https://github.com/david-gherghita/david-gherghita.github.io
