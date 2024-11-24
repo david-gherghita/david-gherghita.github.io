@@ -1,3 +1,9 @@
+---
+title: Learn
+layout: default
+nav_order: 4
+---
+
 # Learn
 
 ## General
