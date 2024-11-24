@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Binary
 
-- [HexEd.it](https://hexed.it)
+- [HexEd.it](https://hexed.it) - Powerful online and offline hex editor.
 
 ## Crypto
 
