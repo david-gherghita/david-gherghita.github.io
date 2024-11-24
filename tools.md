@@ -35,6 +35,7 @@ nav_order: 2
 
 - [PimEyes](https://pimeyes.com) - Advanced face recognition search engine.
 - [Plonk It](https://www.plonkit.net) - GeoGuessr guide.
+- [Overpass turbo](https://overpass-turbo.eu) - Data mining tool for OpenStreetMap.
 
 ## Web
 
