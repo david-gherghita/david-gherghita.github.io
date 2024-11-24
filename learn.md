@@ -29,6 +29,5 @@ nav_order: 4
 
 ## Web
 
-- [DAMN VULNERABLE WEB APPLICATION](https://github.com/digininja/DVWA)
-- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop)
+- [OWASP Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory)
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
