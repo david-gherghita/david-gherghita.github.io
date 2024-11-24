@@ -26,7 +26,6 @@ nav_order: 4
 ## OSINT
 
 - [Gralhix](https://gralhix.com)
-- [overpass turbo](https://overpass-turbo.eu)
 
 ## Web
 
