@@ -15,6 +15,10 @@ nav_order: 2
 - [CyberChef](https://gchq.github.io/CyberChef) - The Cyber Swiss Army Knife: encryption, encoding, compression and data analysis.
 - [dCode](https://www.dcode.fr/en) - A collection of over 900 tools to help solve games, riddles, ciphers, mathematics, puzzles, etc.
 
+## Docker
+
+- [dive](https://github.com/wagoodman/dive) - A tool for exploring a Docker image, layer contents, and more.
+
 ## General
 
 - [HackTools](https://hacktools.sh) - The all-in-one browser extension for offensive security professionals.
