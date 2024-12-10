@@ -27,6 +27,10 @@ nav_order: 2
 
 - [alwaysdata](https://www.alwaysdata.com/en) - Hosting made for everyone, provides free 100MB plan.
 
+## Malware
+
+- [FLARE-VM](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for setting up and maintaining a reverse engineering environment on Windows.
+
 ## Mobile
 
 - [jadx](https://github.com/skylot/jadx) - Dex to Java decompiler.
