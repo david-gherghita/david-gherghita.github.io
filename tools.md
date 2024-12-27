@@ -45,6 +45,10 @@ nav_order: 2
 - [Plonk It](https://www.plonkit.net) - GeoGuessr guide.
 - [Overpass turbo](https://overpass-turbo.eu) - Data mining tool for OpenStreetMap.
 
+## Reverse Engineering
+
+- [Frida](https://frida.re) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+
 ## Web
 
 - [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThings) - A list of useful payloads and bypasses for Web Application Security.
