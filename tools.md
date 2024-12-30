@@ -48,6 +48,7 @@ nav_order: 2
 - [FLARE-VM](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for setting up and maintaining a reverse engineering environment on Windows.
 - [Frida](https://frida.re) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - Open-source .NET assembly browser and decompiler.
+- [pestudio](https://www.winitor.com) - Static malware analysis tool for PE executables.
 
 ## Web
 
