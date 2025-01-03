@@ -14,5 +14,7 @@ nav_order: 6
   - Directive (EU) 2022/2555
 - [NIST SP 800](https://csrc.nist.gov/publications/sp800)
   - National Institute of Standards and Technology Special Publication 800-series
+- [PCI DSS](https://www.pcisecuritystandards.org/document_library/?category=pcidss)
+  - Payment Card Industry Data Security Standard
 - [PTES](http://www.pentest-standard.org)
   - Penetration Testing Execution Standard
