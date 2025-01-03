@@ -54,3 +54,4 @@ nav_order: 2
 
 - [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThings) - A list of useful payloads and bypasses for Web Application Security.
 - [SecLists](https://github.com/danielmiessler/SecLists) - A collection of multiple types of lists used during security assessments.
+- [Wappalyzer](https://www.wappalyzer.com) - Identify technologies on websites.
