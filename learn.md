@@ -32,6 +32,6 @@ nav_order: 4
 - [The Odin Project](https://www.theodinproject.com)
 
 ## Web Security
-
+- [Intigrity Monthly Challenges](https://bugology.intigriti.io/intigriti-monthly-challenges)
 - [OWASP Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory)
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
