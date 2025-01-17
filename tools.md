@@ -53,4 +53,6 @@ nav_order: 2
 ## Web
 
 - [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThings) - A list of useful payloads and bypasses for Web Application Security.
+- [Security Headers](https://securityheaders.com) - Analyse your HTTP response headers.
+- [SSL Server Test](https://www.ssllabs.com/ssltest) - Perform a deep analysis of the configuration of any SSL web server.
 - [Wappalyzer](https://www.wappalyzer.com) - Identify technologies on websites.
