@@ -45,6 +45,7 @@ nav_order: 2
 
 ## Reverse Engineering
 
+- [Fickling](https://github.com/trailofbits/fickling) - Python pickling decompiler and static analyzer.
 - [FLARE-VM](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for setting up and maintaining a reverse engineering environment on Windows.
 - [Frida](https://frida.re) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - Open-source .NET assembly browser and decompiler.
