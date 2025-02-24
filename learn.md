@@ -25,6 +25,7 @@ nav_order: 4
 
 ## OSINT
 
+- [Bellingcat Open Source Challenge(https://challenge.bellingcat.com)
 - [Gralhix](https://gralhix.com)
 
 ## Web Development
