@@ -10,7 +10,6 @@ nav_order: 2
 
 - [Decompiler Explorer](https://dogbolt.org) - Interactive online decompiler.
 - [HexEd.it](https://hexed.it) - Powerful online and offline hex editor.
-- 
 
 ## Crypto
 
