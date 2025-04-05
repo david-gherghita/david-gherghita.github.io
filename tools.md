@@ -14,6 +14,7 @@ nav_order: 2
 ## Crypto
 
 - [CrackStation](https://crackstation.net) - Online password hash cracker.
+- [cryptii](https://cryptii.com) - Web app offering modular conversion, encoding and encryption online.
 - [CyberChef](https://gchq.github.io/CyberChef) - The Cyber Swiss Army Knife: encryption, encoding, compression and data analysis.
 - [dCode](https://www.dcode.fr/en) - A collection of over 900 tools to help solve games, riddles, ciphers, mathematics, puzzles, etc.
 - [Hash Analyzer](https://www.tunnelsup.com/hash-analyzer) - Identify a hash type.
