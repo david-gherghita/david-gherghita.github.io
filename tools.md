@@ -50,6 +50,8 @@ nav_order: 2
 - [Fickling](https://github.com/trailofbits/fickling) - Python pickling decompiler and static analyzer.
 - [FLARE-VM](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for setting up and maintaining a reverse engineering environment on Windows.
 - [Frida](https://frida.re) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+- [Ghidra](https://www.nsa.gov/ghidra) - A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
+- [IDA](https://hex-rays.com) - The world's most popular binary analysis solution for reverse engineering, malware analysis, and vulnerability reporting.
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - Open-source .NET assembly browser and decompiler.
 - [pestudio](https://www.winitor.com) - Static malware analysis tool for PE executables.
 
