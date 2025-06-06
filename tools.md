@@ -23,6 +23,10 @@ nav_order: 2
 
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring a Docker image, layer contents, and more.
 
+## Forensics
+
+- [Autopsy](https://www.autopsy.com) - The premier end-to-end open source digital forensics platform.
+
 ## General
 
 - [HackTools](https://hacktools.sh) - The all-in-one browser extension for offensive security professionals.
