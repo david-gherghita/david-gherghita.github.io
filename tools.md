@@ -30,6 +30,7 @@ nav_order: 2
 ## General
 
 - [HackTools](https://hacktools.sh) - The all-in-one browser extension for offensive security professionals.
+- [IT Tools](https://it-tools.tech) - Handy online tools for developers.
 
 ## Hosting
 
