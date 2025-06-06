@@ -6,9 +6,11 @@ nav_order: 6
 
 # Standards
 
+- [CIS Controls](https://www.cisecurity.org/controls)
+  - Center for Internet Security Critical Security Controls
 - [GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
   - General Data Protection Regulation
-  - Regulation (EU) 2016/679)
+  - Regulation (EU) 2016/679
 - [NIS 2](https://eur-lex.europa.eu/eli/dir/2022/2555)
   - Network and Information Systems 2
   - Directive (EU) 2022/2555
