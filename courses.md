@@ -11,5 +11,4 @@ nav_order: 5
 
 ## Web Development
 
-- [HTML & CSS](https://supersimple.dev/certificates/html-css)
-- [JavaScript](https://supersimple.dev/certificates/javascript)
+- [SuperSimpleDev](https://supersimple.dev) - HTML, CSS, JS, React.
