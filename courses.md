@@ -9,6 +9,9 @@ nav_order: 5
 ## Programming
 - Ultimate Go - William (Bill) Kennedy
 
+## Hacking
+- [Red Team Leaders](https://redteamleaders.coursestack.com)
+
 ## Web Development
 
 - [SuperSimpleDev](https://supersimple.dev) - HTML, CSS, JS, React.
