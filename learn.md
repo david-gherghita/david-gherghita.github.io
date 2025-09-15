@@ -21,6 +21,7 @@ nav_order: 4
 ## OS
 
 - [Command Challenge](https://cmdchallenge.com)
+- [PowerShellForHackers](https://powershellforhackers.com)
 - [SadServers](https://sadservers.com)
 
 ## OSINT
