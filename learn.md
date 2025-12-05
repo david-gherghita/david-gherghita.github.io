@@ -9,6 +9,7 @@ nav_order: 4
 ## General
 
 - [OverTheWire](https://overthewire.org)
+- [Snyk Learn](https://learn.snyk.io)
 
 ## Binary
 
